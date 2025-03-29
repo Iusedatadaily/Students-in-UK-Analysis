@@ -40,6 +40,8 @@ https://github.com/Iusedatadaily/Students-in-UK-Analysis/blob/main/IMG_4311.jpg
 
 Project Dashboard
 
+https://github.com/Iusedatadaily/Students-in-UK-Analysis/blob/main/Students%20Expenses%20in%20UK%20Dashboard.pbix
+
 
 
 
