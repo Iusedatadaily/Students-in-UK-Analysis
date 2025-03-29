@@ -36,5 +36,11 @@ This dataset provides valuable insights into student financial habits, helping t
 
 Dashboard picture
 
+https://github.com/Iusedatadaily/Students-in-UK-Analysis/blob/main/IMG_4311.jpg
+
+Project Dashboard
+
+
+
 
 
